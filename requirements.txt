@@ -34,22 +34,20 @@ backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_161099123
 backports.weakref==1.0.post1
 bcrypt @ file:///C:/ci_311/bcrypt_1676435170049/work
 beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
-bidict==0.22.1
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
 black @ file:///C:/b/abs_620t6ndje8/croot/black_1680737261963/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-blinker==1.6.3
 bokeh @ file:///C:/b/abs_e5qs_0dl2w/croot/bokeh_1690546119144/work
 boltons @ file:///C:/ci_311/boltons_1677729932371/work
 botocore @ file:///C:/b/abs_01gwdn34ju/croot/botocore_1682528022942/work
 Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 brotlipy==0.7.0
-cachetools==5.3.1
+cachetools==5.3.2
 certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
 cffi @ file:///C:/ci_311/cffi_1676423759166/work
 chardet @ file:///C:/ci_311/chardet_1676436134885/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click==8.1.7
+click @ file:///C:/ci_311/click_1676433091657/work
 cloudpickle @ file:///C:/b/abs_3796yxesic/croot/cloudpickle_1683040098851/work
 clyent==1.2.2
 colorama @ file:///C:/ci_311/colorama_1676422310965/work
@@ -71,7 +69,6 @@ contourpy @ file:///C:/ci_311/contourpy_1676431756017/work
 cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
 cryptography @ file:///C:/b/abs_f4do8t8jfs/croot/cryptography_1694444424531/work
 cssselect==1.1.0
-cv==1.0.0
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 cytoolz @ file:///C:/ci_311/cytoolz_1676436342770/work
 daal4py==2023.1.1
@@ -85,6 +82,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 dill @ file:///C:/ci_311/dill_1676433323862/work
 distributed @ file:///C:/b/abs_7509xfv227/croot/distributed_1686866088894/work
+docopt==0.6.2
 docstring-to-markdown @ file:///C:/ci_311/docstring-to-markdown_1677742566583/work
 docutils @ file:///C:/ci_311/docutils_1676428078664/work
 entrypoints @ file:///C:/ci_311/entrypoints_1676423328987/work
@@ -93,13 +91,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///C:/ci_311/python-fastjsonschema_1679500568724/work
 filelock @ file:///C:/ci_311/filelock_1676427284139/work
 flake8 @ file:///C:/ci_311/flake8_1678376624746/work
-Flask==3.0.0
-Flask-Cors==4.0.0
-Flask-Login==0.6.2
-Flask-Mail==0.9.1
-Flask-SQLAlchemy==3.1.1
-Flask-User==1.0.2.2
-Flask-WTF==1.2.1
+Flask @ file:///C:/ci_311/flask_1676436667658/work
 flatbuffers==23.5.26
 fonttools==4.25.0
 freetype-py==2.4.0
@@ -110,12 +102,11 @@ gast==0.5.4
 gensim @ file:///C:/ci_311/gensim_1677743037820/work
 gif2numpy==1.3
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
-google-auth==2.23.3
+google-auth==2.23.4
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 greenlet @ file:///C:/ci_311/greenlet_1676436788118/work
-grpcio==1.59.0
-h11==0.14.0
+grpcio==1.59.2
 h5py @ file:///C:/b/abs_17fav01gwy/croot/h5py_1691589733413/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_fa7afixkhc/croot/holoviews_1693378101313/work
@@ -140,7 +131,7 @@ ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
 itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
 itemloaders @ file:///opt/conda/conda-bld/itemloaders_1646805235997/work
-itsdangerous==2.1.2
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 jaraco.classes @ file:///tmp/build/80754af9/jaraco.classes_1620983179379/work
 jedi @ file:///C:/ci_311/jedi_1679427407646/work
 jellyfish @ file:///C:/b/abs_50kgvtnrbj/croot/jellyfish_1695193564091/work
@@ -233,7 +224,6 @@ paramiko @ file:///opt/conda/conda-bld/paramiko_1640109032755/work
 parsel @ file:///C:/ci_311/parsel_1676443327188/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 partd @ file:///C:/b/abs_4e2m_ds81n/croot/partd_1693937921136/work
-passlib==1.7.4
 pathlib @ file:///Users/ktietz/demo/mc3/conda-bld/pathlib_1629713961906/work
 pathspec @ file:///C:/ci_311/pathspec_1679427644142/work
 patsy==0.5.3
@@ -242,6 +232,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 PILasOPENCV==2.7
 Pillow @ file:///C:/b/abs_153xikw91n/croot/pillow_1695134603563/work
+pipreqs==0.4.13
 pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
 pkginfo @ file:///C:/b/abs_d18srtr68x/croot/pkginfo_1679431192239/work
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
@@ -252,7 +243,7 @@ poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prometheus-client @ file:///C:/ci_311/prometheus_client_1679591942558/work
 prompt-toolkit @ file:///C:/ci_311/prompt-toolkit_1676425940920/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-protobuf==4.24.4
+protobuf==4.25.0
 psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
@@ -287,7 +278,6 @@ PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
 pytest @ file:///C:/b/abs_48heoo_k8y/croot/pytest_1690475385915/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-dotenv @ file:///C:/ci_311/python-dotenv_1676455170580/work
-python-engineio==4.8.0
 python-json-logger @ file:///C:/b/abs_cblnsm6puj/croot/python-json-logger_1683824130469/work
 python-lsp-black @ file:///C:/ci_311/python-lsp-black_1678721855627/work
 python-lsp-jsonrpc==1.0.0
@@ -332,7 +322,6 @@ Scrapy @ file:///C:/ci_311/scrapy_1678502587780/work
 seaborn @ file:///C:/ci_311/seaborn_1676446547861/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
-simple-websocket==1.0.0
 sip @ file:///C:/ci_311/sip_1676427825172/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///C:/ci_311/smart_open_1676439339434/work
@@ -349,7 +338,7 @@ sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_161192105
 sphinxcontrib-serializinghtml @ file:///tmp/build/80754af9/sphinxcontrib-serializinghtml_1624451540180/work
 spyder @ file:///C:/b/abs_e99kl7d8t0/croot/spyder_1681934304813/work
 spyder-kernels @ file:///C:/b/abs_e788a8_4y9/croot/spyder-kernels_1691599588437/work
-SQLAlchemy==2.0.22
+SQLAlchemy @ file:///C:/ci_311/sqlalchemy_1676446707912/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_7bth810rna/croot/statsmodels_1689937298619/work
 sympy @ file:///C:/ci_311_rebuilds/sympy_1679009400182/work
@@ -359,7 +348,8 @@ TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///C:/b/abs_ddkoa9nju6/croot/tenacity_1682972298929/work
 tensorboard==2.14.1
-tensorboard-data-server==0.7.1
+tensorboard-data-server==0.7.2
+tensorflow==2.14.0
 tensorflow-estimator==2.14.0
 tensorflow-intel==2.14.0
 tensorflow-io-gcs-filesystem==0.31.0
@@ -378,7 +368,6 @@ toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomlkit @ file:///C:/ci_311/tomlkit_1676425418821/work
 toolz @ file:///C:/ci_311/toolz_1676431406517/work
 torch==2.1.0
-torchaudio==2.1.0
 torchvision==0.16.0
 tornado @ file:///C:/b/abs_61jhmrrua1/croot/tornado_1690848767317/work
 tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
@@ -390,28 +379,26 @@ typing_extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_16902978
 tzdata @ file:///croot/python-tzdata_1690578112552/work
 uc-micro-py @ file:///C:/ci_311/uc-micro-py_1676457695423/work
 ujson @ file:///C:/ci_311/ujson_1676434714224/work
-ultralytics==8.0.199
+ultralytics==8.0.206
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
-waitress==2.1.2
-watchdog==3.0.0
+watchdog @ file:///C:/ci_311/watchdog_1676457923624/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client @ file:///C:/ci_311/websocket-client_1676426063281/work
-Werkzeug==3.0.0
+Werkzeug @ file:///C:/b/abs_8578rs2ra_/croot/werkzeug_1679489759009/work
 whatthepatch @ file:///C:/ci_311/whatthepatch_1678402578113/work
 widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_1679313880295/work
 win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 wrapt @ file:///C:/ci_311/wrapt_1676432805090/work
-wsproto==1.2.0
-WTForms==3.1.0
 xarray @ file:///C:/b/abs_5bkjiynp4e/croot/xarray_1689041498548/work
 xlwings @ file:///C:/ci_311_rebuilds/xlwings_1679013429160/work
 xxhash @ file:///C:/ci_311/python-xxhash_1676446168786/work
 xyzservices @ file:///C:/ci_311/xyzservices_1676434829315/work
 y-py @ file:///C:/b/abs_b7f5go6r0j/croot/y-py_1683662173571/work
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
+yarg==0.1.9
 yarl @ file:///C:/ci_311/yarl_1676432870023/work
 ypy-websocket @ file:///C:/b/abs_4e65ywlnv8/croot/ypy-websocket_1684172103529/work
 zict @ file:///C:/b/abs_fc7elavmem/croot/zict_1682698759288/work
